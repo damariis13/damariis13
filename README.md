@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Dámaris
-- 👀 I’m interested in Front-End Dev
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on project with HTML CSS React for now.
+- 👋 Hi, I’m Dámaris from Peru
+- 👀 I’m interested in Front-End Development
+- 🌱 I’m currently learning JavaScript and React
+- 💞️ I’m looking to collaborate on projects with HTML CSS & React for now.
 - 📫 How to reach me:
 
-  Twitter: @Dakitianthm
+  [Twitter] (http://twitter.com/Dakitianthm)
   E-mail: damarisdallorto@outlook.com
 
 <!---
