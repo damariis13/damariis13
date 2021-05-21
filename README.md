@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects with HTML CSS & React for now.
 - 📫 How to reach me:
 
-  Twitter: http://twitter.com/Dakitianthm
+  Twitter: http://twitter.com/damiperu
   E-mail: damarisdallorto@outlook.com
 
 <!---
