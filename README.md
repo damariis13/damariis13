@@ -1,11 +1,12 @@
-- 👋 Hi, I’m Dámaris from Peru
+- 👋 Hi, I’m Dámaris! 😊
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning JavaScript and React
-- 💞️ I’m looking to collaborate on projects with HTML CSS & React for now.
+- 🌱 I’m currently in a Front-End bootcamp. 
+- 💞️ I’m looking to collaborate on projects with ReactJS for now.
 - 📫 How to reach me:
 
   Twitter: http://twitter.com/damitechh
   E-mail: damarisdallorto@outlook.com
+  LinkedIn: http://linkedin.com/in/damarisdallortomoran
 
 <!---
 damariis13/damariis13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
