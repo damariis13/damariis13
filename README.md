@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Dámaris! 😊
 - 👀 I’m interested in Front-End Development
 - 🌱 I’m currently in a Front-End bootcamp. 
-- 💞️ I’m looking to collaborate on projects with ReactJS for now.
+- 💞️ I’m looking to improve my React skills: NextJS
 - 📫 How to reach me:
 
-  Twitter: http://twitter.com/damitechh
+  Twitter: http://twitter.com/damitechh 
   E-mail: damarisdallorto@outlook.com
   LinkedIn: http://linkedin.com/in/damarisdallortomoran
 
