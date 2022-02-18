@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: damitechh](https://img.shields.io/twitter/follow/damitechh?style=social)](https://twitter.com/damitechh)
-[![Linkedin: damarisdallorto](https://img.shields.io/badge/-damarisdallorto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damarisdallorto/)](https://www.linkedin.com/in/damarisdallorto/)
+[![Linkedin: damarisdallorto](https://img.shields.io/badge/-damarisdallorto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/damarisdallortomoran/)](https://www.linkedin.com/in/damarisdallortomoran/)
 [![GitHub Damaris](https://img.shields.io/github/followers/damariis13?label=follow&style=social)](https://github.com/damariis13)
 
 
