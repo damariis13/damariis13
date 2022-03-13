@@ -14,7 +14,7 @@
 const dami = {
   code: [Javascript, HTML, CSS],
   tools: [ReactJS, NextJS, SCSS, Git],
-  challenge: "I am doing the #100DaysOfCode challenge focused on TypeScript and NextJS"
+  challenge: "I am doing the #100DaysOfCode challenge focused on NextJS"
 }
 ```
 
