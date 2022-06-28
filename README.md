@@ -1,6 +1,6 @@
 <h2> Hi there, I'm Damaris! <img align='center' src="https://media.giphy.com/media/j3mgBb5XLsEKhRxYpN/giphy.gif" width="60"></h2>
 <img align='right' src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="230">
-<p><em>Bootcamp grad <a href="https://www.acamica.com/">Acamica </a><img src="https://media.giphy.com/media/1etn2BmiW0nOgoZHTL/giphy.gif" width="40"></br> Web3 enthusiast/dev at <a href="https://twitter.com/developer_dao">Developer DAO</a><img src="https://media.giphy.com/media/ESq3eWrdms1YQ0UNPZ/giphy.gif" width="40"> 
+<p><em>Bootcamp grad <a href="https://www.acamica.com/">Acamica </a><img src="https://media.giphy.com/media/1etn2BmiW0nOgoZHTL/giphy.gif" width="40"></br> <a href="https://twitter.com/developer_dao">Developer DAO</a><img src="https://media.giphy.com/media/ESq3eWrdms1YQ0UNPZ/giphy.gif" width="40"> 
 </em></p>
 
 [![Twitter: damitechh](https://img.shields.io/twitter/follow/damitechh?style=social)](https://twitter.com/damitechh)
