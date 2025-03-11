@@ -12,7 +12,7 @@
 
 ```javascript
 const dami = {
-  code: [Javascript, HTML, CSS, PHP],
+  code: [JavaScript, HTML, CSS, PHP],
   tools: [ReactJS, NextJS, SCSS, Tailwind, JQuery, NodeJS, Git, Github/Gitlab],
 }
 ```
